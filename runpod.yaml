@@ -1,3 +1,0 @@
-name: freeway-crawler
-description: Crawler for freeway VDLive data
-entrypoint: handler.py
